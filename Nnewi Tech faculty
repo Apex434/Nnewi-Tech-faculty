@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title></title>
+<style>
+    body {
+    background-image: url("/storage/emulated/0/DCIM/Camera/IMG_20221104_124535_562.jpg"); 
+    color: green;
+     padding:
+     font-size: 10
+     }
+   </style>  
+</head>
+<body>
+<h1><p style="font-size:29px;">NNEWI TECH FACULTY</p></h1>
+<p><center> please fill in the form to get started.</center></p>
+Firstname:<br>
+<input type="text" name="Firstname"><br>
+Lastname:<br>
+<input type="text" name="Lastname"><br>
+Phone/Email:<br>
+<input type="text" name="phone/Email"><br>
+Address:<br>
+<input type="text" name="Address"><br>
+Gender:<br>
+<select name="gender">
+<option value="Male">Male</option>
+<option value="Female">Female</option></select></br>
+<p style="background-color: green; color: White; padding; font-size:20px;"><p>After filling in the form, please come to our office for payments to get started with your intensive lessons.</p>
+<p style="text-align: center;"><input type="submit"></p>
+</body>
+</html>
